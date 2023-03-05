@@ -20,3 +20,9 @@ Nyaa	https://nyaa.ink/	番剧著名站
 Z-library	https://z-lib.org/	电子书下载，YYDS
 Wallhaven	https://wallhaven.cc/	自用壁纸下载
 阿里小站	https://newxiaozhan.com/t/video	精心整理的阿里云盘
+
+
+网易云音乐分流 NeteaseMusic.list
+自用影视广告屏蔽 Mybreak.list
+IP隐藏の分流[不建议使用] Anti-ip.list
+Emby分流 Emby.list
